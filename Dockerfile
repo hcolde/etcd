@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-marketplace/google/etcd3:latest
+FROM gcr.io/etcd-development/etcd:v3.4.13
